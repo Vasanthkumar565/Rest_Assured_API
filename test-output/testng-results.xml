@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T11:54:28 IST" name="Suite" finished-at="2023-07-04T11:54:45 IST" duration-ms="16699">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T11:54:28 IST" name="Test" finished-at="2023-07-04T11:54:45 IST" duration-ms="16699">
+      <class name="Rest_Assured.Test_Rest_API">
+        <test-method signature="Create_Repository_for_Authenticated_User()[pri:0, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:28 IST" name="Create_Repository_for_Authenticated_User" finished-at="2023-07-04T11:54:33 IST" duration-ms="4608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Repository_for_Authenticated_User -->
+        <test-method signature="Update_a_Repository()[pri:1, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:33 IST" name="Update_a_Repository" finished-at="2023-07-04T11:54:34 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_a_Repository -->
+        <test-method signature="Get_a_Repository()[pri:2, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:34 IST" name="Get_a_Repository" finished-at="2023-07-04T11:54:34 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_a_Repository -->
+        <test-method signature="Create_a_Fork()[pri:3, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:34 IST" name="Create_a_Fork" finished-at="2023-07-04T11:54:35 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_a_Fork -->
+        <test-method signature="List_of_Forks()[pri:4, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:35 IST" name="List_of_Forks" finished-at="2023-07-04T11:54:36 IST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_of_Forks -->
+        <test-method signature="List_Repositories_of_User()[pri:5, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:36 IST" name="List_Repositories_of_User" finished-at="2023-07-04T11:54:37 IST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_Repositories_of_User -->
+        <test-method signature="List_Repositories_of_Language()[pri:6, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:37 IST" name="List_Repositories_of_Language" finished-at="2023-07-04T11:54:37 IST" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_Repositories_of_Language -->
+        <test-method signature="List_Public_Repositories()[pri:7, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:37 IST" name="List_Public_Repositories" finished-at="2023-07-04T11:54:38 IST" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_Public_Repositories -->
+        <test-method signature="Create_a_File_Content()[pri:8, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:38 IST" name="Create_a_File_Content" finished-at="2023-07-04T11:54:40 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_a_File_Content -->
+        <test-method signature="Update_a_File_Content()[pri:9, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:40 IST" name="Update_a_File_Content" finished-at="2023-07-04T11:54:41 IST" duration-ms="713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_a_File_Content -->
+        <test-method signature="Delete_a_File_Content()[pri:10, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:41 IST" name="Delete_a_File_Content" finished-at="2023-07-04T11:54:41 IST" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_a_File_Content -->
+        <test-method signature="List_Repository_tags()[pri:11, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:41 IST" name="List_Repository_tags" finished-at="2023-07-04T11:54:42 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_Repository_tags -->
+        <test-method signature="Create_an_AutoLink_Reference_for_a_Repository()[pri:12, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:42 IST" name="Create_an_AutoLink_Reference_for_a_Repository" finished-at="2023-07-04T11:54:42 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_an_AutoLink_Reference_for_a_Repository -->
+        <test-method signature="Get_an_autolink_reference_for_a_Repository()[pri:13, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:42 IST" name="Get_an_autolink_reference_for_a_Repository" finished-at="2023-07-04T11:54:43 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_an_autolink_reference_for_a_Repository -->
+        <test-method signature="Delete_from_an_autolink_reference_for_a_Repository()[pri:14, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:43 IST" name="Delete_from_an_autolink_reference_for_a_Repository" finished-at="2023-07-04T11:54:43 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_from_an_autolink_reference_for_a_Repository -->
+        <test-method signature="Get_all_Repository_topics()[pri:15, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:43 IST" name="Get_all_Repository_topics" finished-at="2023-07-04T11:54:44 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_all_Repository_topics -->
+        <test-method signature="Replace_all_Repository_topics()[pri:16, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:44 IST" name="Replace_all_Repository_topics" finished-at="2023-07-04T11:54:44 IST" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Replace_all_Repository_topics -->
+        <test-method signature="Delete_a_Repository()[pri:17, instance:Rest_Assured.Test_Rest_API@49139829]" started-at="2023-07-04T11:54:44 IST" name="Delete_a_Repository" finished-at="2023-07-04T11:54:45 IST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_a_Repository -->
+      </class> <!-- Rest_Assured.Test_Rest_API -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
